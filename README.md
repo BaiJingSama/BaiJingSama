@@ -1,3 +1,3 @@
 ## 需要坚持
 
-每一个知识都会成为你翅膀上的羽毛，助你翱翔
+精通C、C++、C#、PHP、GOLANG、JAVA、RUBY、JAVASCRIPT等单词的拼写
